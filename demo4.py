@@ -10,3 +10,4 @@ age=int(input("enter your age :"))
 a=role=="student" and age<21
 print(f" Eligibal : {a}")
 #soham pakhare
+# new comment
