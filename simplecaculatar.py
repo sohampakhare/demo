@@ -3,7 +3,7 @@ b=int(input("enter second number : "))
 c=int(input("enter 1 for addition 2 for sub 3.for mult 4 for div "))
 
 match c :
-    case 1
+    case 1:
         print("addition is =",a+b)
     case 2:
         print("sub is = ",a-b)
